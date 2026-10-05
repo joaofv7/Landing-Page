@@ -1,0 +1,6 @@
+{
+  "name": "Rockstar Games Conversion Landing Page",
+  "description": "A high-conversion, cinematic entertainment landing page engineered from the Rockstar Games digital ecosystem blueprint, featuring interactive flagship trailers, live Newswire, persona matrix, core IP showcases, editions guide, and comprehensive objection-killing FAQ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
